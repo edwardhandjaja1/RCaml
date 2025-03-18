@@ -1,0 +1,4 @@
+(library
+ (name RCaml)
+ (libraries str batteries interp plplot)
+ (instrumentation (backend bisect_ppx)))

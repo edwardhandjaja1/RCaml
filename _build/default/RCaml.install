@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/RCaml/META"
+  "_build/install/default/lib/RCaml/dune-package"
+  "_build/install/default/lib/RCaml/opam"
+]
+bin: [
+  "_build/install/default/bin/RCaml"
+]
+doc: [
+  "_build/install/default/doc/RCaml/README.md"
+]
